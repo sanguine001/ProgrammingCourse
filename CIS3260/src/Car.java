@@ -11,7 +11,7 @@ public class Car {
 		return gear;
 	}
 	void reverseGear() {
-		gear = gear - 1 ;
+		gear = gear - 1;
 	}
     void gearUp() {
     	if(gear >= 6){
